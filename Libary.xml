@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <catalogue type="technical_books">
+        <book>
+            <ISBN>112233445</ISBN>
+            <title>Data analytics for secondary school</title>
+            <author>Allen Taylor</author>
+        </book>
+        <book>
+            <ISBN>013467869</ISBN>
+            <title>Mathematic and Statistics for Graduates</title>
+            <author>Salis James</author>
+        </book>
+    </catalogue>
+    <catalogue type="cookery_books">
+        <book>
+            <ISBN>760876467</ISBN>
+            <title>Baking made easy</title>
+            <author>May John</author>
+        </book>
+        <book>
+            <ISBN>68575897</ISBN>
+            <title>Baking for Kids</title>
+            <author>Isacc Alan</author>
+        </book>
+    </catalogue>
+</library>
